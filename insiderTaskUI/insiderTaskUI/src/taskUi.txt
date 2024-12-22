@@ -1,0 +1,38 @@
+❖ Test Otomasyonu
+1. https://useinsider.com/ adresini ziyaret edin ve Insider ana sayfasının açık olup olmadığını kontrol edin
+
+2. Gezinme çubuğundaki “Şirket” menüsünü seçin, “Kariyerler”i seçin ve Kariyer
+sayfası, Konumları, Ekipleri ve Insider'da Yaşam bloklarının açık olup olmadığını kontrol edin
+
+3. https://useinsider.com/careers/quality-assurance/ adresine gidin, “Tüm QA işlerini gör”e tıklayın,
+işleri Konuma göre filtreleyin: “İstanbul, Türkiye” ve Departman: “Kalite Güvencesi”, iş listesinin
+varlığını kontrol edin
+
+4. Tüm işlerin Pozisyonunun “Kalite Güvencesi”, Departmanının
+“Kalite Güvencesi” ve Konumunun “İstanbul, Türkiye” içerdiğini kontrol edin
+
+5. “Rolü Görüntüle” düğmesine tıklayın ve bu eylemin bizi Lever
+Application form sayfasına yönlendirdiğini kontrol edin
+
+Gereksinimler:
+➔ Bir test vakası herhangi bir programlama dili ve
+çerçevesi (Python veya Java + Selenium tercih edilir)
+➔ Hiçbir BDD (Cucumber, Quantum, Codeception, vb.) çerçevesine izin verilmez
+➔ Test adımlardan birinde başarısız olursa ekran görüntüsü alınmalıdır
+➔ Test vakası Chrome ve Firefox tarayıcılarında çalışabilmelidir ve
+tarayıcının parametrik olarak değiştirilebilir olduğundan emin olunmalıdır.
+➔ Test kodu POM gereksinimlerini tam olarak karşılamalıdır
+
+PERFORMANCE
+
+Yük testi
+https://www.n11.com/ başlığının arama modülünün davranışını araştırmak ve aramadan sonra sonuçları listelemek için yük testleri ve senaryolar gereklidir
+
+Gereksinimler:
+➔ İlgili durum için test senaryoları yazın
+➔ JMeter veya Locust kullanarak senaryoları kodlayın (1 kullanıcı yeterlidir)
+
+API
+
+https://petstore.swagger.io/ adresindeki “pet” uç noktalarını kullanarak olumlu ve olumsuz senaryolarla CRUD operasyon API testleri yazın.
+
